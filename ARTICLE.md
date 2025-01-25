@@ -22,3 +22,8 @@ to see how these predictions will materialize in the coming years
 
 ## Proof Reading
 Article checked for typos
+
+## Comment
+Great article, Fuad. It was an insightful read. I particularly resonated with the sentence, "By 2025, engineers at any level will be able to create an AI app through the widespread availability of APIs and models." It reminded me of how, just recently, I was able to put together a website in just a few days—something that would have taken weeks to build in the past. AI has truly democratized coding, enabling faster development. I agree that moving forward, the focus will likely shift more toward creative problem-solving, strategic design, and ensuring that technology serves human needs effectively.
+
+\- `Sashank Neupane`

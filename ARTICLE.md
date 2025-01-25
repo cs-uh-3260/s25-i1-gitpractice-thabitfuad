@@ -18,3 +18,7 @@ with low-code and AI solutions could redefine the role of developers,
 pushing them to focus on creative problem-solving and strategic design 
 rather than repetitive tasks. This transformative shift makes me excited 
 to see how these predictions will materialize in the coming years
+
+
+## Proof Reading
+Article checked for typos

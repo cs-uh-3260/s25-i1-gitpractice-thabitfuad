@@ -27,3 +27,7 @@ Article checked for typos
 Great article, Fuad. It was an insightful read. I particularly resonated with the sentence, "By 2025, engineers at any level will be able to create an AI app through the widespread availability of APIs and models." It reminded me of how, just recently, I was able to put together a website in just a few days—something that would have taken weeks to build in the past. AI has truly democratized coding, enabling faster development. I agree that moving forward, the focus will likely shift more toward creative problem-solving, strategic design, and ensuring that technology serves human needs effectively.
 
 \- `Sashank Neupane`
+
+This is a very interesting read! It's exciting to see how advancements in AI over the past few years are not only reducing the time and cost of game development but also significantly raising the quality standards across the gaming industry. Can't wait to see how much potentials AI can bring to us engineers in the future.
+
+\- `Phuc Nguyen`
